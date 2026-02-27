@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "9a6472c81e683bcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad6cb416f228ab83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cad8e78d04679ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "任務.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "任務"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16520a06bb31f7f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b6d3111503c284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36af9858d58b8b0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "b4501739bebf903a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "ee28dc5a475e318b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8ce7d7d4ea5c852",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7ac8cbb5f02055b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "166f870e54b3af87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "任務.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "任務 的反向連結"
+            }
+          },
+          {
+            "id": "48e2eef321aa45ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "任務.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "任務 的對外連結"
+            }
+          },
+          {
+            "id": "5c93dda2e001c431",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "b70217231123c0f9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "7e8eb58ab4ceb1b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "任務.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "任務 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "cad8e78d04679ab7",
+  "lastOpenFiles": [
+    "tsconfig.tsbuildinfo",
+    "leaderboard.json",
+    "src/app/api/leaderboard/route.ts",
+    "src/app/api/leaderboard",
+    "src/app/api",
+    "public/social/youtube.png",
+    "public/social/twitch.png",
+    "public/leaderboard/m6.png",
+    "public/leaderboard/m5.png",
+    "public/leaderboard/m4.png",
+    "public/leaderboard/m3.png",
+    "public/leaderboard/m2.png",
+    "public/leaderboard/m1.png",
+    "public/social",
+    "public/leaderboard",
+    "社群icon/twitch.png",
+    "任務.md",
+    "src/app/icon.png",
+    "排行榜",
+    "新增資料夾"
+  ]
+}

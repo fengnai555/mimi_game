@@ -40,11 +40,20 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# tools
-.obsidian/
-.gemini/
-任務.md
-排行榜/
-方塊磚/
-社群icon/
-sheep-game/
+# images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+public/tiles/
+public/leaderboard/
+public/social/
+/排行榜/
+/方塊磚/
+/社群icon/
+/sheep-game/
+/public/bg.png
+/public/logo.png
+/public/slot.png

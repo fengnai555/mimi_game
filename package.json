@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3001",
+    "dev": "next dev -p 80",
+    "dev:ssl": "next dev -p 443 --experimental-https",
+    "dev:all": "concurrently \"npm run dev\" \"npm run dev:ssl\"",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
@@ -18,6 +20,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "concurrently": "^9.2.1",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
